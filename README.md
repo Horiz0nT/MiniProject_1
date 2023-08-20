@@ -41,3 +41,8 @@ The following variables are available:
 - Customer type – booking type
 - Reservation status – value of the last status of the reservation: Canceled - was canceled by the client; Check-Out - the client has registered but has already left the hotel; No-Show - the client has not registered and informed the hotel about the reason
 - Reservation status date – status update date
+
+
+The project itself you'll find in [GH_Miniproject_1](https://github.com/Horiz0nT/MiniProject_1/blob/main/GH_Miniproject_1.ipynb)
+
+The DataSet is the [bookings.csv](https://github.com/Horiz0nT/MiniProject_1/blob/main/bookings.csv)
